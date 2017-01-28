@@ -1,0 +1,57 @@
+.tab-badge {
+	border-radius: 40%;
+	height: 30%;
+}
+
+.bg-image {
+	background-image: url('/assets/images/industrial-technology-Background.png');
+	background-size: cover;
+}
+
+.app-name {
+	font-size: 2em;
+	color: #B9B9B9;
+}
+
+.dv-app-name {
+    margin-top: 18vh;
+    margin-left: 8%;
+}
+
+.input-field {
+	height: 34px;
+	width: 100%;
+	border: solid 1px #FFCC80;
+	background: #FFFFBF;
+	opacity: 0.5;
+	padding-left: 10px;
+	border-radius: 5px;
+	font: 15px arial, sans-serif;
+}
+
+.dv-form-item {
+	margin-top: 18px;
+	margin-left: 8%;
+	margin-right: 8%;
+}
+
+.btn-login {
+	background: #80CBC4;
+	font: 16px arial, sans-serif;
+	font-weight: bold;
+	color: #FFFFFF;
+	width: 70%;
+	height: 40px;
+	border-radius: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.dv-version {
+	position: fixed;
+	bottom: 20px;
+	margin-left: 8%;
+	font: 12px arial, sans-serif;
+	color: #B9B9B9;
+}
